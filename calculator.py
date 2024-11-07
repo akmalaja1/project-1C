@@ -4,5 +4,11 @@ penjumlahan = a+b
 print = (penjumlahan)
 
 
+pembagian = a/b
 perkalian = a*b
+
+
+print (pembagian)
+
 print (perkalian)
+
